@@ -108,6 +108,6 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 ## Contact Info
 
 * [helen.lam@ibm.com](helen.lam@ibm.com) | [@helennnsays](http://twitter.com/helennnsays)
-* [jody.burks@ibm.com](jody.burks@ibm.com) | [@JodyBurksPhD](http://twitter.com/jodyburksphd
+* [jody.burks@ibm.com](jody.burks@ibm.com) | [@JodyBurksPhD](http://twitter.com/jodyburksphd)
 
 
