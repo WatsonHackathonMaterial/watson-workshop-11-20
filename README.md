@@ -1,4 +1,3 @@
-# watson-workshop-11-20
 
 # Watson Overview Workshop
 
@@ -12,12 +11,12 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 
 | Time | Description |
 | ---- | ----------- |
-| 08:00 – 09:00 | Lecture: Introduction & Demos |
-| 09:00 - 10:30 | Hands-on Labs Watson Discovery |
-| 10:30 – 12:00 | Hands-on Labs Watson Assistant |
+| 08:00 – 09:15 | Lecture: Introduction & Demos |
+| 09:15 - 10:45 | Hands-on Labs Watson Discovery |
+| 10:45 – 12:00 | Hands-on Labs Watson Assistant |
 | 12:00 – 01:00 | Lunch |
 | 01:00 - 02:30 | Hands-on Labs Watson NLU Node Red & Watson Tone Analyzer | 
-| 02:30 - 4:00 | Watson Speech to Text & Watson Studio
+| 02:30 - 4:00 | Hands-on Labs Watson Speech to Text & Watson Studio + Visual Recognition |
 
 ## Watson Services on IBM Cloud
 
@@ -64,19 +63,22 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 
 ### Hands-on Labs
 
-Choose one of the following:
+1. Watson Discovery Labs
+   * Watson Discovery lab with hurricane data: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
+   * Watson Discovery lab using Smart Document Understanding up to step 3: https://github.com/IBM/watson-discovery-sdu-with-assistant/blob/master/README.md
 
-* Assistant: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
+2. Watson Assistant 
+   * Watson Assistant, follow video: https://developer.ibm.com/tutorials/create-your-first-assistant-powered-chatbot/
+   * Docs: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
-* Discovery: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery/
-
-* Tone Analyzer: https://github.com/djccarew/watson-toneanalyzer-nlu-lab
-
-* Watson Natural Language Understanding (with Node-RED): https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
-
-* **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
-
-* Watson Studio + Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
+3. NLU & Tone Analyzer
+   * Tone Analyzer: https://github.com/djccarew/watson-toneanalyzer-nlu-lab
+   * Watson Natural Language Understanding (with Node-RED): https://github.com/jeancarl/node-red-labs/blob/master/node-red-natural-language-understanding/node-red-natural-language-understanding.pdf
+   * **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
+   
+4. Speech to Text and Watson Studio + Visual Recognition
+  * https://developer.ibm.com/patterns/customize-and-continuously-train-your-own-watson-speech-service/
+  * Watson Studio + Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Important Links: Watson sample code and tutorials
 
