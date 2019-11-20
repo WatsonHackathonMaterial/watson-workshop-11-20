@@ -77,8 +77,8 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
    * **IMPORTANT**: Instructions for setting up Node-RED: https://nodered.org/docs/getting-started/ibmcloud#boilerplate-application
    
 4. Speech to Text and Watson Studio + Visual Recognition
-  * https://developer.ibm.com/patterns/customize-and-continuously-train-your-own-watson-speech-service/
-  * Watson Studio + Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
+   * https://developer.ibm.com/patterns/customize-and-continuously-train-your-own-watson-speech-service/
+   * Watson Studio + Visual Recognition: https://github.com/IBM/drones-iot-visual-recognition
 
 ## Important Links: Watson sample code and tutorials
 
