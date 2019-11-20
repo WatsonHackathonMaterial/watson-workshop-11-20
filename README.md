@@ -68,7 +68,7 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
    * Watson Discovery lab using Smart Document Understanding up to step 3: https://github.com/IBM/watson-discovery-sdu-with-assistant/blob/master/README.md
 
 2. Watson Assistant 
-   * Watson Assistant, follow video: https://developer.ibm.com/tutorials/create-your-first-assistant-powered-chatbot/
+   * Watson Assistant tutorial: https://github.com/desmarchris/ai-forum-lab
    * Docs: https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started#getting-started
 
 3. NLU & Tone Analyzer
