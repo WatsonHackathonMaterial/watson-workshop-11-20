@@ -88,6 +88,16 @@ A workshop for getting to know AI by using Watson APIs and IBM Cloud.
 * Watson Documentation: https://www.ibm.com/watson/developercloud/doc/index.html
 * Free online courses: https://cognitiveclass.ai/
 
+## API Connect Labs
+
+1. https://www.ibm.com/cloud/garage/dte/tutorial/apic-dev-jam-series-lab-1-create-and-secure-api
+2. https://www.ibm.com/cloud/garage/dte/tutorial/apic-dev-jam-lab-2-developer-portal-experience
+3. https://www.ibm.com/cloud/garage/dte/tutorial/apic-dev-jam-lab-3-add-oauth-security-your-api
+4. https://www.ibm.com/cloud/garage/dte/tutorial/apic-v2018-dev-jam-lab-4-use-lifecycle-controls-version-your-api
+5. https://www.ibm.com/cloud/garage/dte/tutorial/apic-v2018-dev-jam-lab-5-advanced-api-assembly
+6. https://www.ibm.com/cloud/garage/dte/tutorial/apic-dev-jam-lab-6-working-api-products
+7. https://www.ibm.com/cloud/garage/dte/tutorial/apic-v2018-dev-jam-lab-7-consumer-experience
+
 ## Cloud Deployment Options: Kubernetes and Cloud Foundry
 
 1. Install CLI [here](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli)
